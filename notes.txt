@@ -1,0 +1,11 @@
+canvas is used for the graphics 
+Tree- set of nodes and each node describe some property 
+
+
+node -- node->left
+     -- node->right 
+
+
+
+
+
